@@ -1,0 +1,6 @@
+nome = input ("DIGITE SEU NOME")
+idade = int(input("quantos anos voce tem "))
+salario = float(input("qual seu salario "))
+print("meu nome é " + nome    )
+print("Minha idade é ", idade )
+print("meu salario é " , salario) 
